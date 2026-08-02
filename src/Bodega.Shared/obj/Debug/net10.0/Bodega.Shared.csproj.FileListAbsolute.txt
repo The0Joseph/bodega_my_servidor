@@ -1,0 +1,11 @@
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/bin/Debug/net10.0/Bodega.Shared.deps.json
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/bin/Debug/net10.0/Bodega.Shared.dll
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/bin/Debug/net10.0/Bodega.Shared.pdb
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/obj/Debug/net10.0/Bodega.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/obj/Debug/net10.0/Bodega.Shared.AssemblyInfoInputs.cache
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/obj/Debug/net10.0/Bodega.Shared.AssemblyInfo.cs
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/obj/Debug/net10.0/Bodega.Shared.csproj.CoreCompileInputs.cache
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/obj/Debug/net10.0/Bodega.Shared.dll
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/obj/Debug/net10.0/refint/Bodega.Shared.dll
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/obj/Debug/net10.0/Bodega.Shared.pdb
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Shared/obj/Debug/net10.0/ref/Bodega.Shared.dll

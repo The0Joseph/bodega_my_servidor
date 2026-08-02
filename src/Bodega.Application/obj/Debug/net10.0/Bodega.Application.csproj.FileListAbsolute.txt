@@ -1,0 +1,17 @@
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/bin/Debug/net10.0/Bodega.Application.deps.json
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/bin/Debug/net10.0/Bodega.Application.dll
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/bin/Debug/net10.0/Bodega.Application.pdb
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/bin/Debug/net10.0/Bodega.Domain.dll
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/bin/Debug/net10.0/Bodega.Shared.dll
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/bin/Debug/net10.0/Bodega.Domain.pdb
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/bin/Debug/net10.0/Bodega.Shared.pdb
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/Bodega.Application.csproj.AssemblyReference.cache
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/Bodega.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/Bodega.Application.AssemblyInfoInputs.cache
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/Bodega.Application.AssemblyInfo.cs
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/Bodega.Application.csproj.CoreCompileInputs.cache
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/Bodega.A.0E1C4290.Up2Date
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/Bodega.Application.dll
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/refint/Bodega.Application.dll
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/Bodega.Application.pdb
+/Users/joseph/Documents/03_mis_proyectos/Pruebas/bodega_my_servidor/src/Bodega.Application/obj/Debug/net10.0/ref/Bodega.Application.dll

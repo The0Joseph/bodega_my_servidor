@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Bodega.Api/Bodega.Api.csproj" />
+  <Project Path="Bodega.Application/Bodega.Application.csproj" />
+  <Project Path="Bodega.Domain/Bodega.Domain.csproj" />
+  <Project Path="Bodega.Infrastructure/Bodega.Infrastructure.csproj" />
+  <Project Path="Bodega.Shared/Bodega.Shared.csproj" />
+</Solution>
